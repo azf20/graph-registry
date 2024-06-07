@@ -1,0 +1,18 @@
+[
+    {
+        "identifier": "mainnet",
+        "name": "Ethereum Mainnet",
+        "protocol": "evm",
+        "protocolInformation": {
+            "chainId": 1
+        }
+    },
+    {
+        "identifier": "sepolia",
+        "name": "Sepolia",
+        "protocol": "evm",
+        "protocolInformation": {
+            "chainId": 11155111
+        }
+    }
+]

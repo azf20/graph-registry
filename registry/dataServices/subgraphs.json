@@ -1,0 +1,14 @@
+{
+    "identifier": "subgraphs",
+    "implementation": [
+        {
+            "component": "graph-node",
+            "version": "0.35.1",
+            "source": "https://github.com/graphprotocol/graph-node"
+        }
+    ],
+    "protocol": {
+        "staking": "",
+        "rewards": true
+    }
+}
