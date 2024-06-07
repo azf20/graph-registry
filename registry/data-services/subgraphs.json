@@ -1,0 +1,25 @@
+{
+    "identifier": "subgraphs",
+    "implementation": [
+        {
+            "component": "graph-node",
+            "version": "0.35.1",
+            "source": "https://github.com/graphprotocol/graph-node"
+        }
+    ],
+    "deployments": {
+        "arbitrum-one": {
+            "staking": "<staking-address>",
+            "payment": "<payment-address>",
+            "gns": "<gns-address>",
+            "rewards": true
+            
+        },
+        "arbitrum-sepolia": {
+            "staking": "<staking-address>",
+            "payment": "<payment-address>",
+            "gns": "<gns-address>",
+            "testnet": true
+        }
+    }
+}

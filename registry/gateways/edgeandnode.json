@@ -1,0 +1,13 @@
+{
+    "identifier": "edgeandnode",
+    "addresses": {
+        "mainnet": "gateway-address",
+        "arbitrum-one": "gateway-address",
+        "arbitrum-sepolia": "gateway-address"
+    },
+    "dataServices": [
+        {
+            "subgraphs": ["mainnet", "arbitrum-one", "arbitrum-sepolia"]
+        }
+    ]
+}
