@@ -1,5 +1,7 @@
 {
     "identifier": "subgraphs",
+    "owner": "owner-address",
+    "description": "Subgraphs enable dapp developers to index data from blockchains and make it available to query with GraphQL.",
     "implementation": [
         {
             "component": "graph-node",

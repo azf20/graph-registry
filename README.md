@@ -6,7 +6,7 @@ This is a proof-of-concept registry for The Graph Protocol.
 
 ### Data services
 
-[subgraphs](/registry/data-services/subgraphs.json)
+[subgraphs](/registry/data-services/subgraphs.json)  
 [substreams](/registry/data-services/substreams.json)
 
 ### Gateways
